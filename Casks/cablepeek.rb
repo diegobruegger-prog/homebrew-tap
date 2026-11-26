@@ -1,6 +1,6 @@
 cask "cablepeek" do
-  version "0.5"
-  sha256 "a350b064f5f1c16e6b74943e7f2124885120c49e5c1e4fe4b5d1a9a38db7a392"
+  version "0.6"
+  sha256 "db72339f1923a518d0fc15bac3b6ef1fa7ff355e0fa2dfb4644ff16c720ef418"
 
   url "https://github.com/diegobruegger-prog/cablepeek/releases/download/v#{version}/CablePeek.zip"
   name "CablePeek"
